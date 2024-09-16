@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 Bachelor's degree in Materials Engineering<br>💼 Actively seeking a position as a Frontend Developer<br>📚 Always enthusiastic about learning and coding<br>🤝 Open to collaboration with the possibility of relocation<br>🌐 English (C1 - Advanced)<br>🌐 Polish (native)</p>
+<p align="left">🎓 Bachelor's degree in Materials Engineering<br>💼 Actively seeking a position as a Frontend Developer<br>📚 Always enthusiastic about learning and coding<br>🤝 Open to collaboration with the possibility of relocation<br>🌐 English (B2 - Advanced)<br>🌐 Polish (native)</p>
 
 ###
 
