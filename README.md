@@ -40,8 +40,8 @@
 
 ###
 
-<div align="center">
-  <a href="https://przwojwwp.github.io/Portfolio/" target="_blank">Portfolio LINK/</a>
+<div align="left">
+  <a href="https://przwojwwp.github.io/Portfolio/" target="_blank"><strong>Portfolio LINK</strong></a>
 </div>
 
 ###
