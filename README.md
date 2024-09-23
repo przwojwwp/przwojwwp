@@ -41,7 +41,7 @@
 ###
 
 <div align="center">
-  <p>https://przwojwwp.github.io/Portfolio/</p>
+  <a href="https://przwojwwp.github.io/Portfolio/" target="_blank">Portfolio LINK/</a>
 </div>
 
 ###
