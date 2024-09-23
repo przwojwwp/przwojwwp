@@ -36,12 +36,12 @@
 
 ###
 
-<h3 align="left">🔥   My Stats</h3>
+<h3 align="left">🔥   My Portfolio - top 5 projects</h3>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=przwojwwp&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <p>https://przwojwwp.github.io/Portfolio/</p>
 </div>
 
 ###
