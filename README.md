@@ -36,7 +36,7 @@
 
 ###
 
-<h3 align="left">🔥   My Portfolio - top 5 projects</h3>
+<h3 align="left">🔥   My Portfolio - top projects</h3>
 
 ###
 
